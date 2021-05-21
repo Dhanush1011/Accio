@@ -47,8 +47,10 @@ You will be prompted for the following inputs
 You will be prompted for the following inputs 
   - Receiver's (Server's) IP address : 127.0.0.1 (example)
   - Receiver's (Server's) port : 12345 (example)
-  
-Note :
+
+#### The transfered files are saved in the directory 'accio'
+
+Note:
 - If you want to simulate the packet loss, uncomment the section in the file server.py which has random.random(). The value represents the probability of packet loss.
 - First click on the receive button, so that the server starts listening.
 - Then click on the send button to send the file.

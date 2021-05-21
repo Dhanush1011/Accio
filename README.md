@@ -29,7 +29,7 @@ Note : file_transfer.py enables you to run the application on cmd line without u
 - Download the project into your PC.
 - Navigate to the project folder.
 - Open two instances of the terminal from this folder.
-- Run the following command : java -jar "./dist/JavaApplication.jar"
+- Run the following command in both terminals : java -jar "./dist/JavaApplication.jar"
 
 You will have two intances of the application, use one instance as a sender and the other instance as a receiver
 
